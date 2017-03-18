@@ -1,12 +1,12 @@
 # Basic
-title: 亢志军
-subtitle: 自留地
+title: 郝俊豪
+subtitle: blog
 description: 欢迎来到我的个人网站~
 # 头像里面的标题
-avatarTitle: RobotKang
+avatarTitle: Coder
 # 头像里面的描述
-avatarDesc: Python/机器学习/嵌入式
-url: "http://robotkang.cc"
+avatarDesc: Java/Python
+url: "http://fiorazzz.github.io"
 
 # Comment
 comment:
@@ -16,12 +16,12 @@ comment:
 
 # Social
 social:
-    weibo: 123456789
-    weixing: kang1390305137 
-    github: MengZheK
+    weibo: AYXing丶
+    weixing: haohao_754 
+    github: Fiorazzz
     # twitter: 
-    mail: robotkang@foxmail.com
-    csdn: robotkang
+    mail: 754784763@qq.com
+    coding: mrhjh
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
